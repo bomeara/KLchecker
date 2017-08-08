@@ -1,0 +1,14 @@
+citHeader("To cite this technique in a publication use:")
+
+citEntry(entry="Article",
+  title="Investigating the performance of AIC in selecting phylogenetic models",
+  author="Jhwueng, Dwueng-Chwuan and Huzurbazar, Snehalata and O'Meara, Brian C and Liu, Liang",
+  journal="Statistical applications in genetics and molecular biology",
+  volume="13",
+  number="4",
+  pages="459-475",
+  year="2014",
+  textVersion="Jhwueng, D-C, S. Huzurbazar, B.C. O'Meara, & L. Liu. 2014. Investigating the performance of AIC in selecting phylogenetic models. Statistical applications in genetics and molecular biology 13: 459-475."
+)
+
+citFooter("You may want to also cite this package and its version number (found with 'library(help = KLchecker)').")

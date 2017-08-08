@@ -1,10 +1,8 @@
 Package: KLchecker
-Title: What the Package Does (one line, title case)
+Title: Estimates Kullback-Leibler distance between a true and candidate model
 Version: 0.0.0.9000
-Authors@R: c(
-person("Brian", "O'Meara", email = "omeara.brian@gmail.com", role = c("aut", "cre"))
-person("Dwueng-Chwuan", "Jhwueng", email = "djhwueng@umail.iu.edu", role=c("aut") )
-)
+Author: Brian O'Meara <omeara.brian@gmail.com>, Dwueng-Chwuan Jhwueng, <djhwueng@umail.iu.edu>
+Maintainer: Brian O'Meara <omeara.brian@gmail.com>
 Description: This implements the KL estimator of Jhwueng et al. (2014) in order to compare that with AIC or other estimators of Kullback-Leibler distance
 Depends: R (>= 3.4.1)
 License: GPL3

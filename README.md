@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/99720792.svg)]
+
 https://zenodo.org/badge/99720792.svg
 
 # KLchecker
